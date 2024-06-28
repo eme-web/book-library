@@ -17,5 +17,7 @@ npm install
 npm start
 ```
 
-#### API Documentation
+#### API Documentation 
+[The API documentation is available here:](https://documenter.getpostman.com/view/23082189/2sA3duFDCQ)
+
 
