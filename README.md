@@ -7,14 +7,15 @@ This project is built with:
 - Nodejs/ExpressJS
 - MongoDB
 
-### Prerequisites
+#### Prerequisites
 To run this locally, you need to have the environment variables shown in .env.sample file
 
-##### Installation
+#### Installation
 To run this project
 ```
 npm install
 npm start
 ```
 
-### API Documentation
+#### API Documentation
+
